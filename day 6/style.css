@@ -1,0 +1,23 @@
+*{
+    background-color: bisque;
+    color: black;
+    margin: 0;
+    padding: 0;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    border: 5px solid red;
+    display: flex;
+     justify-content: center;
+    align-items: center;
+}
+.mainbox{
+    display: flex;
+    /* flex-direction: column; */
+    /* flex-wrap: wrap; */
+     justify-content: center;
+    align-items: center;
+    height: 100vh;
+    gap: 20px;
+}
