@@ -35,7 +35,7 @@ console.log("Lakshita");
 
 // ---------  const  ------------
 // const c = 43;
-// console.log(c);
+// console.log(c)
 
 
 
